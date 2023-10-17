@@ -1,4 +1,5 @@
 <?php
+include('auth.php');
 include('menu.php');
 ?> 
         <div class="container-fluid">

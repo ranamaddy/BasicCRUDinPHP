@@ -18,7 +18,7 @@
           <a class="nav-link" href="view.php">view</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
+          <a class="nav-link" href="logout.php">logout</a>
         </li>
 
       </ul>
